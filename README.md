@@ -1,6 +1,6 @@
 ## Lorenzo Henrique Zanetti
 
-zlorenzoh@gmail.com
+[zlorenzoh@gmail.com](mailto:zlorenzoh@gmail.com)
 
 - 📖 Computer Science Bachelor at State University of Maringá.
 - 🗣  Advanced Portuguese and English.
